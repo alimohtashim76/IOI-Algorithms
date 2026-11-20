@@ -5,9 +5,10 @@ print("Hello, world!")
 print("My name is Ali.")
 
 # Printing a fun fact about myself
-print("I love playing cricket.")
+print("I love playing Chess.")
+print("My rapid chess rating is 1200")
 
 # Performing and printing a simple calculation
-print("The result of 3 + 5 is:", 3 + 5)
+print("The result of 8 + 5 is:", 8 + 5)
 
 print("I have completed the activity 1")
